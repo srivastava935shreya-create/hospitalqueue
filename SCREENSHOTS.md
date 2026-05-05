@@ -1,3 +1,7 @@
+<img width="1920" height="1020" alt="Screenshot 2025-10-11 104518" src="https://github.com/user-attachments/assets/c33ba0e7-770a-410f-b9f3-c70dd5ab78ad" />
+<img width="1920" height="1020" alt="Screenshot 2025-10-11 104536" src="https://github.com/user-attachments/assets/e802fc2b-c1d5-4b55-8edf-44dad3cc55bd" />
+<img width="1920" height="1020" alt="Screenshot 2025-10-11 120331" src="https://github.com/user-attachments/assets/3ecb5fb5-a160-4643-b999-3dd688202e0d" />
+<img width="1920" height="1020" alt="Screenshot 2025-10-11 120542" src="https://github.com/user-attachments/assets/e8fb9ca7-4938-42a0-bc94-bb8b27f02ca2" />
 # 📸 Hospital Queue Management System - Screenshots & UI Guide
 
 ## Overview
