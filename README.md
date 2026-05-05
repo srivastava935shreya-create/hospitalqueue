@@ -1,7 +1,8 @@
 # 🏥 Hospital Queue Management System
 
 A **professional-grade hospital queue management system** with AI-based patient prioritization, real-time tracking, and staff management interface.
-
+Designed to address real-world hospital queue inefficiencies commonly seen in high-volume healthcare settings 
+Designed with scalability in mind for multi-user environments and Estimated waiting time.
 ---
 
 ## ✨ Key Features
