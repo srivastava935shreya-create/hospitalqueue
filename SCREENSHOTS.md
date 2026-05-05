@@ -6,7 +6,7 @@
 
 ## Overview
 
-This document provides a visual guide to all features and interfaces of the Hospital Queue Management System. The application features two main views: **Public Patient View** and **Staff Dashboard**.
+This document provides a visual guide to all features and interfaces of the Hospital Queue Management System. The application features two main views: **Public Patient View** and **Staff Dashboard**
 
 ---
 
@@ -106,15 +106,15 @@ This document provides a visual guide to all features and interfaces of the Hosp
 **Queue Table Layout:**
 ```
 CURRENT QUEUE
-┌──────┬─────────────┬─────┬──────────┬────────────┬─────────────────┐
+┌──────┬─────────────┬─────┬──────────┬────────────┬─────────────[...]
 │Token │   Name      │Age  │Symptoms  │ Priority   │ Wait Time (min)  │
-├──────┼─────────────┼─────┼──────────┼────────────┼─────────────────┤
+├──────┼─────────────┼─────┼──────────┼────────────┼─────────────[...]
 │T-4532│ John Doe    │ 35  │Chest pain│🔴 Critical │      3          │
 │T-4531│ Jane Smith  │ 28  │Fever     │🟠 Emergency│      8          │
 │T-4530│ Mike Brown  │ 45  │Headache  │🟡 Urgent  │     22          │
 │T-4529│ Sarah Jones │ 55  │Cough     │🟢 Non-urg │     42          │
 │T-4528│ Tom Wilson  │ 62  │Back pain │🟢 Non-urg │     51          │
-└──────┴─────────────┴─────┴──────────┴────────────┴─────────────────┘
+└──────┴─────────────┴─────┴──────────┴────────────┴─────────────[...]
 ```
 
 **Features:**
@@ -196,17 +196,17 @@ Access granted → Staff Dashboard
 │ [Waiting Patients] [In Consultation] [Completed]│
 ├─────────────────────────────────────────────────┤
 │ WAITING PATIENTS                                │
-│ ┌───────��──────────────────────────────────┐   │
+│ ┌───────────────────────────────────────┐   │
 │ │ Token: T-4532 | Name: John Doe | Age: 35│   │
 │ │ Symptoms: Chest pain, difficulty breathe│   │
 │ │ Priority: 🔴 CRITICAL | Waiting: 3 min  │   │
 │ │ [START] [CANCEL]                         │   │
-│ ├──────────────────────────────────────────┤   │
+│ ├──────────────────────────────────────┤   │
 │ │ Token: T-4531 | Name: Jane Smith | Age:28│   │
 │ │ Symptoms: High fever, body ache          │   │
 │ │ Priority: 🟠 EMERGENCY | Waiting: 8 min │   │
 │ │ [START] [CANCEL]                         │   │
-│ └──────────────────────────────────────────┘   │
+│ └──────────────────────────────────────┘   │
 └─────────────────────────────────────────────────┘
 ```
 
@@ -286,7 +286,7 @@ Access granted → Staff Dashboard
 │ Completed At: 12:45 PM                 │
 │                                        │
 │ [VIEW FULL RECORD]                     │
-└─────��──────────────────────────────────┘
+└────────────────────────────────────────┘
 ```
 
 ---
@@ -566,9 +566,3 @@ SCORING BREAKDOWN:
 **Last Updated:** May 5, 2026
 **Version:** 1.0
 **Status:** Production Ready
-
-<img width="1920" height="1080" alt="Screenshot 2025-11-15 224424" src="https://github.com/user-attachments/assets/b9efdf02-dbb0-4411-9265-2ee7f3af647d" />
-<img width="1920" height="1020" alt="Screenshot 2025-11-25 132056" src="https://github.com/user-attachments/assets/9e0a60c2-063c-40a1-a2b0-8ea78339bcac" />
-<img width="465" height="583" alt="Screenshot 2025-11-25 132613" src="https://github.com/user-attachments/assets/f044fad5-8e65-4e5e-a30c-5b195d2973ff" />
-<img width="465" height="582" alt="Screenshot 2025-11-25 1326131" src="https://github.com/user-attachments/assets/de0d090c-5549-455d-8f52-5c9b2bcb67f7" />
-
