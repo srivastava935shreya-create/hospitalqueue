@@ -562,3 +562,9 @@ SCORING BREAKDOWN:
 **Last Updated:** May 5, 2026
 **Version:** 1.0
 **Status:** Production Ready
+
+<img width="1920" height="1080" alt="Screenshot 2025-11-15 224424" src="https://github.com/user-attachments/assets/b9efdf02-dbb0-4411-9265-2ee7f3af647d" />
+<img width="1920" height="1020" alt="Screenshot 2025-11-25 132056" src="https://github.com/user-attachments/assets/9e0a60c2-063c-40a1-a2b0-8ea78339bcac" />
+<img width="465" height="583" alt="Screenshot 2025-11-25 132613" src="https://github.com/user-attachments/assets/f044fad5-8e65-4e5e-a30c-5b195d2973ff" />
+<img width="465" height="582" alt="Screenshot 2025-11-25 1326131" src="https://github.com/user-attachments/assets/de0d090c-5549-455d-8f52-5c9b2bcb67f7" />
+
