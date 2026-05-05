@@ -545,6 +545,13 @@ Archive Record
 
 ---
 
+## 🔄 System Flow
+
+1. Patient registers → gets token  
+2. System assigns priority (normal/emergency)  
+3. Queue updates in real-time  
+4. Staff processes next patient  
+
 ## 📈 Future Enhancements
 
 - [ ] Doctor/Staff user accounts with authentication
